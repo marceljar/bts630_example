@@ -2,7 +2,7 @@
 
 This is my awesome hello world project. It prints hello world on the screen and then it lets the user to write the computer back. You can see its requirements documentation in the link below
 
-[Requirements documentation](./Requirements_documentation.docx")
+[Requirements documentation](./Requirements_documentation.docx)
 
 ## Changes from the requirements
 
