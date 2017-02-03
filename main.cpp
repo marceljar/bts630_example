@@ -1,10 +1,9 @@
-#include <iostream>
+#include "library.h"
 
 int main(){
 
-    char message[128];
-    std::cout <<"Hello world!" << std::endl;
-    std::cin.getline(message,sizeof(message));
-
+    hello_world();
+    say_something();
+    
     return 0;
 }
